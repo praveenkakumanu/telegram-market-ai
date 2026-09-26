@@ -1,0 +1,10 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+data/*.db
+media/*
+!data/.gitkeep
+!media/.gitkeep
+.venv/
